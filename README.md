@@ -18,4 +18,4 @@ I've structured this repository as follows:
 	- ...
 
 
-Every day has a folder assigned to it. If the solution is a single file, it is stored as `solution.\<File Extension\>`. If, however, the solution contains multiple files and or directories, it is stored within a `solution` sub-folder. The same applies to input files. A script called `run.sh` exists in each day folder to run the program. A Markdown file called `requirements.md` exists in each day folder containing a list of required programs to run the solution.
+Every day has a folder assigned to it. If the solution is a single file, it is stored as `solution.<File Extension>`. If, however, the solution contains multiple files and or directories, it is stored within a `solution` sub-folder. The same applies to input files. A script called `run.sh` exists in each day folder to run the program. A Markdown file called `requirements.md` exists in each day folder containing a list of required programs to run the solution.
